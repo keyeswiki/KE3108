@@ -1,6 +1,6 @@
 .. toctree::
    :maxdepth: 2
-   :caption: Sengo1 AI视觉图卡创客扩展包
+   :caption: KE3108 Sengo1 AI视觉图卡创客扩展包
 
    docs/套件介绍
    docs/ArduinoTutorial/arduinoRST
