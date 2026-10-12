@@ -217,7 +217,7 @@ ESP32通过CP2102驱动下载代码。所以在使用它之前，我们需要在
 
 ![img-20230329173907](./media/img-20230329173907-1778306791832-48.png)
 
-回到安装界面，根据提示等待安装.
+回到安装界面，根据提示等待安装。
 
 ![img-20230329173914](./media/img-20230329173914-1778306811409-50.png)
 
@@ -257,7 +257,7 @@ D.选中“**MicroPython (ESP32)**”，选中“**Silicon Labs CP210x USB to UA
 
 ![img-20230331154946](./media/img-20230331154946.png)
 
-E.弹出如下对话框，“**Port**”选择“**Silicon Labs CP210x USB to UART Bridge(COM7)**”，单击“**Browse...**”选择之前准备好的microPython固件esp32-20210902-v1.17.bin。检查“Erase flash before installing”和“Flash mode”，然后点击“**安装**”，等待安装完成提示。（<span style="color: rgb(255, 76, 65);">注意：如果安装固件失败，请按住ESP32主板上的Boot键，出现上传进度百分比再松开Boot键。再次点击“**安装**”。</span>)
+E.弹出如下对话框，“**Port**”选择“**Silicon Labs CP210x USB to UART Bridge(COM7)**”，单击“**Browse...**”选择之前准备好的microPython固件esp32-20210902-v1.19.1.bin。检查“Erase flash before installing”和“Flash mode”，然后点击“**安装**”，等待安装完成提示。（<span style="color: rgb(255, 76, 65);">注意：如果安装固件失败，请按住ESP32主板上的Boot键，出现上传进度百分比再松开Boot键。再次点击“**安装**”。</span>)
 
 ![img-20230331144331](./media/img-20230331144331-1778307324983-64.png)
 
